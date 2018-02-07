@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\MyApps\MyTimer\</PublishUrlHistory>
+    <InstallUrlHistory>\\NPB12280\C%24\MyApps\MyTimer\|\\NPB12280\C%24\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\NPB12280\C%24\MyApps\MyTimer\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
